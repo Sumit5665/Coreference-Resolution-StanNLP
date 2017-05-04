@@ -1,0 +1,5 @@
+('/home/sumit/Desktop/pro/build/CoRefResolution/PyStanfordDependencies-0.3.1-py3.4.egg',
+ None,
+ {'*.pyc', '*.so', '*.py', '*.pyd', '*.pyo', 'EGG-INFO'},
+ 'DATA',
+ [])
